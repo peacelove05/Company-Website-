@@ -7,3 +7,5 @@ const nextMonthBtn = document.getElementById('next-month');
 const calendarGrid = document.querySelector('.calendar-grid');
 const calendarDays = document.querySelector('.calendar-days');
 
+let currentDate = new Date();
+let activities = {};  
