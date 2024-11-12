@@ -9,3 +9,8 @@ const calendarDays = document.querySelector('.calendar-days');
 
 let currentDate = new Date();
 let activities = {};  
+
+
+const daysOfWeek = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+
+
